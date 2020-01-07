@@ -1,0 +1,2 @@
+# Defining the correct sequence of brackets ()[]{} with or without text 
+The program reads the file and selects brackets from it using regular expressions. Then, using a loop, it determines the necessary sequence. If it is correct, the program outputs "yes", otherwise "no"

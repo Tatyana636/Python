@@ -1,0 +1,2 @@
+# Belonging to a point in the circle area
+The program reads the coordinates of the point, the center point of the circle, and the radius. Depending on the returned value, displays the word YES if the point belongs to the area (the area includes borders), otherwise the word NO.

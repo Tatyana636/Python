@@ -1,0 +1,2 @@
+# Diagonals
+Enter an odd number n. after that, the program creates a two-dimensional array of n×n elements, filling it with characters." ". Then it fills the middle row of the array, the middle column of the array, the main diagonal, and the side diagonal with the "*" characters.  The screen displays an array of elements separated by a space.
